@@ -40,7 +40,7 @@ Due to the lack of centralized raw data, every market's indicators were individu
 
 ## Dataset Description
 
-
+![CSV Preview](./csvDCmapTableau.png)
 
 
 The final CSV file (`https://github.com/SBrouck/usa-data-center-dashboard/blob/main/DCdataUSfinal.csv`) includes:
@@ -59,6 +59,8 @@ This dataset was formatted and merged manually in order to produce a clean input
 ## Tableau Public Visualization
 
 **→ [View the interactive Tableau dashboard here](https://public.tableau.com/app/profile/sacha.brouck/viz/WheretheCloudLivesU_S_DataCenterTrendsbyMarket/Sheet1#1)
+
+![Tableau Map Preview](./tableauDCmap.png)
 
 The dashboard allows for:
 - Filtering by market type and operator presence
