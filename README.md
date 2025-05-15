@@ -1,7 +1,7 @@
 # U.S. Data Center Market Mapping (CBRE H2 2024)
 
 **Author**: Sacha Brouck  
-**Tool**: Tableau Public  
+**Tool**: Tableau  
 **Data sources**: CBRE reports, FCC, EIA, DataCenterMap  
 
 ---
@@ -40,7 +40,10 @@ Due to the lack of centralized raw data, every market's indicators were individu
 
 ## Dataset Description
 
-The final CSV file (`cbre_data_centers_final_US_only.csv`) includes:
+
+
+
+The final CSV file (`https://github.com/SBrouck/usa-data-center-dashboard/blob/main/DCdataUSfinal.csv`) includes:
 
 - 18 U.S. regional markets, each labeled as "Primary" or "Secondary"
 - Installed and under-construction capacity (MW)
@@ -55,16 +58,12 @@ This dataset was formatted and merged manually in order to produce a clean input
 
 ## Tableau Public Visualization
 
-**→ [View the interactive Tableau dashboard here](https://public.tableau.com/app/profile/...)** *(insert your link)*
+**→ [View the interactive Tableau dashboard here](https://public.tableau.com/app/profile/sacha.brouck/viz/WheretheCloudLivesU_S_DataCenterTrendsbyMarket/Sheet1#1)
 
 The dashboard allows for:
 - Filtering by market type and operator presence
 - Comparing capacity vs. saturation
 - Exploring infrastructure development across geographies
-
-Two screenshots are included in this repository:
-- Preview of the map
-- Preview of the structured dataset
 
 ---
 
